@@ -3,7 +3,7 @@ import sys
 import zipfile
 import logging as logger
 
-# Configure logging
+# Configure loggingss
 logger.basicConfig(filename='app.log', level=logger.DEBUG, format='%(asctime)s - %(message)s')
 
 
